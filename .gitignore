@@ -1,0 +1,23 @@
+datasets
+teinxin_tc/lung_dataset
+teinxin_tc/lung_dataset2
+venv
+.RData
+.Rhistory
+GSE131907
+teinxin_tc/tcc teinxin/
+*.h5
+*.h5ad
+*.csv 
+datasets/
+teinxin_tc/lung_dataset/
+teinxin_tc/lung_dataset2/
+venv/
+.RData
+.Rhistory
+GSE131907/
+teinxin_tc/tcc teinxin/
+*.h5
+*.h5ad
+*.csv
+*.png
